@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cat-memes/static/css/main.be735880.css",
+    "main.js": "/cat-memes/static/js/main.7aed8f10.js",
+    "index.html": "/cat-memes/index.html",
+    "main.be735880.css.map": "/cat-memes/static/css/main.be735880.css.map",
+    "main.7aed8f10.js.map": "/cat-memes/static/js/main.7aed8f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be735880.css",
+    "static/js/main.7aed8f10.js"
+  ]
+}
